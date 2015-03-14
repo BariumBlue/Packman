@@ -1,4 +1,4 @@
-** === Packman: Saviour of the Universe ===**
+**=== Packman: Saviour of the Universe ===**
 
 A generic Pacman clone.
 
